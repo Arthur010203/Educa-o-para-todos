@@ -71,7 +71,7 @@ function ContentLibraryScreen({ navigation }) {
   const [audio, setAudio] = useState(null);
 
   const contentData = [
-    { id: '1', title: 'Introdução à Matemática', type: 'text', content: 'Este é um texto educativo sobre a introdução à matemática...' },
+    { id: '1', title: 'Matematica Basica', type: 'text', content: 'Este é um texto educativo sobre a introdução à matemática...' },
     { id: '2', title: 'Aula de Ciências: A Terra', type: 'video', content: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' },
     { id: '3', title: 'Áudio: Como estudar melhor', type: 'audio', content: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3' },
   ];
