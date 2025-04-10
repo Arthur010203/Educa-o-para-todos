@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     padding: 24,
   },
   paragraph: {
-    margin: 24,
+    margin: 22,
     marginTop: 0,
     fontSize: 14,
     fontWeight: 'bold',
