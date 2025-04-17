@@ -9,7 +9,7 @@ import Video from 'react-native-video';
 function RegisterScreen({ navigation }) {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const [password, setPassword] = useState('302864');
   const [confirmPassword, setConfirmPassword] = useState('');
 
   const handleRegister = () => {
